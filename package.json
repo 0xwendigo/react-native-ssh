@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-ssh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a library that enables React Native apps to execute commands over SSH",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,9 @@
     "react-native",
     "ssh"
   ],
-  "author": "",
+  "author": "Wendigo",
   "license": "",
+  "homepage":"https://github.com/0xwendigo/react-native-ssh.git",
   "peerDependencies": {
     "react-native": "0.x.x"
   }
